@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dudogy</string>
+    <string name="menu_game">게임 플레이</string>
+    <string name="menu_score">점수 보기</string>
+    <string name="back_menu">메뉴로 가기</string>
+    <string name="score">점수:</string>
+    <string name="time">시간:</string>
+    <string name="rank">순위:</string>
+    <string name="init_score_number">0</string>
+    <string name="init_time_number">30</string>
+    <string name="init_rank_number">1</string>
+</resources>
